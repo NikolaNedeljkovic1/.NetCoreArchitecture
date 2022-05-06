@@ -1,0 +1,2 @@
+Creating .NET 5 API with MongoDB, dockerizing everything. Repository pattern and controllers, nothing fancy
+Using mongoclient for mongoGUI
